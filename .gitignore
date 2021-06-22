@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+test/__snapshots__
+
+# builds
+dist
+
+# IDEs
+.idea
+.vscode
+
+# Environment variables
+.env
